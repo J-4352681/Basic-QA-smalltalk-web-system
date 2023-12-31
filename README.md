@@ -36,35 +36,19 @@
 
 - **Home**
 
-![Home page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/pc/home-1280.png?raw=true "PC: 1280x720 display")
-
-![Home page in a tablet screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/tablet/home-810.png?raw=true "Tablet: 810x1080 display")
-
-![Home page in a phone screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/phone/home-360.png?raw=true "Phone: 360x760 display")
+![Home page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/home.png?raw=true "PC: 1280x720 display")
 
 - **User profile**
 
-![User profile page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/pc/user-1280.png?raw=true "PC: 1280x720 display")
-
-![User profile page in a tablet screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/tablet/user-810.png?raw=true "Tablet: 810x1080 display")
-
-![User profile page in a phone screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/phone/user-360.png?raw=true "Phone: 360x760 display")
+![User profile page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/user.png?raw=true "PC: 1280x720 display")
 
 - **Search**
 
-![Search page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/pc/search-1280.png?raw=true "PC: 1280x720 display")
-
-![Search page in a tablet screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/tablet/search-810.png?raw=true "Tablet: 810x1080 display")
-
-![Search page in a phone screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/phone/search-360.png?raw=true "Phone: 360x760 display")
+![Search page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/search.png?raw=true "PC: 1280x720 display")
 
 - **Question**
 
-![Question making form page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/pc/question-1280.png?raw=true "PC: 1280x720 display")
-
-![Question making form page in a tablet screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/tablet/question-810.png?raw=true "Tablet: 810x1080 display")
-
-![Question making form page in a phone screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/phone/question-360.png?raw=true "Phone: 360x760 display")
+![Question making form page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/question.png?raw=true "PC: 1280x720 display")
 
 
 ### Steps to run app in Pharo Smalltalk:
