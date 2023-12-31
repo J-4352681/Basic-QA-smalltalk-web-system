@@ -1,5 +1,0 @@
-¿Cómo aplico el patrón Strategy en Smalltalk?
-
-Estoy realizando un trabajo en el cual me parece pertinente aplicar el patrón Strategy, pero no se cómo hacerlo.
-
-Smalltalk, POO, patrones
