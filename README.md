@@ -27,11 +27,7 @@
 
 - **Login**
 
-![Login page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/pc/login-1280.png?raw=true "PC: 1280x720 display")
-
-![Login page in a tablet screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/tablet/login-810.png?raw=true "Tablet: 810x1080 display")
-
-![Login page in a phone screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/phone/login-360.png?raw=true "Phone: 360x760 display")
+![Login page in a pc screen](https://github.com/J-4352681/Basic-QA-smalltalk-web-system/blob/development/img/login.png?raw=true "PC: 1280x720 display")
 
 
 - **Home**
