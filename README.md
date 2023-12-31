@@ -1,6 +1,6 @@
 # Basic QA Smalltalk web system
 
-- A basic question-answer (QA) web system made with Pharo Smalltalk and the Seaside Framework.
+- A basic question-answer (QA) web system made with Pharo Smalltalk, the Seaside Framework and Bootstrap.
 
 ### Features
 
